@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "DragonSMP-iSKm.aternos.me",
+    "port":57920,
     "version": "1.20.1",
     "try-creative": false
   },
